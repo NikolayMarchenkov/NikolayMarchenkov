@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NikolayMarchenkov
-- 👀 I’m a lawyer in IT and IP with more than 10 years of the professional bacjground
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on possible cooperation
+- 👀 I’m a lawyer in IT and IP with more than 10 years of professional background
 - 📫 How to reach me my e-mail is nikolay@yourlegal.company
 
 <!---
